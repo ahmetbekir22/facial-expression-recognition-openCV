@@ -1,4 +1,4 @@
-# 🎭 Real-Time Emotion Recognition with Webcam
+#  Real-Time Emotion Recognition with Webcam
 
 A lightweight Python application that performs **real-time facial emotion recognition** using your webcam.  
 It detects and classifies five basic emotions: **Neutral**, **Happy**, **Sad**, **Surprised**, and **Angry**.
@@ -7,14 +7,14 @@ This project leverages **MediaPipe's Face Mesh** for landmark detection and **Op
 
 ---
 
-## 📸 Overview
+##  Overview
 
 This project analyzes facial landmarks in real-time and applies rule-based logic to estimate the user's current emotion.  
 No deep learning model is used — it's fast, responsive, and easily customizable.
 
 ---
 
-## ⚙️ Features
+##  Features
 
 - 📷 Real-time webcam capture
 - 🧠 Emotion classification based on facial geometry
@@ -24,7 +24,7 @@ No deep learning model is used — it's fast, responsive, and easily customizabl
 
 ---
 
-## 🧪 Detected Emotions
+##  Detected Emotions
 
 | Emotion   | Detection Cues |
 |-----------|----------------|
@@ -38,7 +38,7 @@ No deep learning model is used — it's fast, responsive, and easily customizabl
 
 ---
 
-## 🚀 Installation
+##  Installation
 
 ### 1. Clone the repository
 
